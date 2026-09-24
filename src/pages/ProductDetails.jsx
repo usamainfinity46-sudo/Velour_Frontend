@@ -26,7 +26,7 @@ import { fetchProductReviewsRequest, submitReviewRequest } from "../api/reviewsA
 import ProductOptions from "../components/products/ProductOptions";
 import SizeGuide from "../components/products/SizeGuide";
 import { getProductOptions, productOptionsAreSelected, selectedVariantStock } from "../utils/productOptions";
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 import { Badge } from "../components/ui/Badge";
 
 // Real per-star breakdown, computed from the actual reviews for this

@@ -1,7 +1,7 @@
 import { ArrowRight, Layers } from "lucide-react";
 import SectionHeader from "../SectionHeader";
 import { Link } from "react-router-dom";
-import { Badge } from "../ui/badge";
+import { Badge } from "../ui/Badge";
 import { Button } from "../ui/button";
 
 const COLLECTIONS = [
